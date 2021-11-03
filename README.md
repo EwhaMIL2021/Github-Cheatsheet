@@ -77,11 +77,11 @@ git repository는 **remote repository(원격 저장소)**와 **local repository(
 그런 다음 Git Bash 또는 터미널을 열어 저장소를 불러올 위치(예를 들어 `Desktop`)로 이동을 하고, 다음과 같이 입력합니다.
 
 ```console
-cd Desktop/
+$ cd Desktop/
 ```
 
 ```console
-git clone {좀전에 복사한 링크 주소}
+$ git clone {좀전에 복사한 링크 주소}
 ```
 
 참고로 Windows나 Linux에선 `Shift`+`Insert` 키를 누르면 붙여넣기가 됩니다.
@@ -92,7 +92,7 @@ git clone {좀전에 복사한 링크 주소}
 이제 로컬 저장소 폴더로 이동합니다.
 
 ```console
-cd Algorithm-Study/
+$ cd Algorithm-Study/
 ```
 
 <img width="395" alt="스크린샷 2021-11-03 오후 5 55 23" src="https://user-images.githubusercontent.com/40985307/140032206-33dd46c3-85ad-4d3c-a899-b727597e6517.png">
@@ -103,8 +103,8 @@ cd Algorithm-Study/
 아래처럼 계정 정보를 알려줍니다.
 
 ```console
-git config --global user.email "{내이메일(반드시 깃헙에 가입할 때 쓴거)}"
-git config --global user.name "{내이름}"
+$ git config --global user.email "{내이메일(반드시 깃헙에 가입할 때 쓴거)}"
+$ git config --global user.name "{내이름}"
 ```
 
 윈도우 환경의 경우 로그인 창이 같이 뜨게 될 텐데, 그럼 일단 token이라는 글자가 보이는 버튼을 클릭합니다.
