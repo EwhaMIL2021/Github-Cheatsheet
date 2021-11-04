@@ -5,6 +5,7 @@
 
 1. [GitHub 사이트에서 Repository 관리하기](#GitHub-사이트에서-Repository-관리하기)
 2. [내 컴퓨터에서 Repository 관리하기](#내-컴퓨터에서-Repository-관리하기)
+3. [Merge](
 
 
 `Algorithm-Study` repository를 예시로 정리해보겠습니다.
@@ -47,7 +48,7 @@
 
 <img width="1213" alt="스크린샷 2021-11-03 오후 5 14 41" src="https://user-images.githubusercontent.com/40985307/140027604-0fe16284-b636-4596-a22d-37dd70adbbde.png">
 
-이제 `EwhaMIL2021/Algorithm-Study`와 `내계정/Algorithm-Study` 비교가 뜰텐데요, 잘 확인해보고 좌측 상단의 `Create pull request`를 누릅니다.
+이제 `EwhaMIL2021/Algorithm-Study`와 `내계정/Algorithm-Study` 비교가 뜰텐데요, 잘 확인해보고 측 상단의 `Create pull request`를 누릅니다.
 
 <img width="1222" alt="스크린샷 2021-11-03 오후 5 17 59" src="https://user-images.githubusercontent.com/40985307/140027812-45daeb15-b79f-41b8-a647-df1fa84be189.png">
 
@@ -111,3 +112,8 @@ $ git config --global user.name "{내이름}"
 
 ### 토큰 생성
 
+
+
+![1](https://user-images.githubusercontent.com/40985307/140268378-ca6443d1-5338-4abc-bae4-53b15deaa712.png)
+![2](https://user-images.githubusercontent.com/40985307/140268366-2662b3d7-999f-4c9d-a25c-b2bf1063021f.png)
+![3](https://user-images.githubusercontent.com/40985307/140268375-6e20b9b4-71e9-486b-915b-c0f00b0896f1.png)
