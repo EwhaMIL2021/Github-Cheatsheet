@@ -201,3 +201,22 @@ $ git push origin main
 
 
 ## 파일 합치기
+
+`Algorithm-Study`처럼 다수가 함께 쓰는 저장소에서는 여러 사람의 파일을 합쳐야 할 일이 생깁니다.
+파일을 합치는 방법에는 여러 가지 방법이 있는데요,
+로컬 저장소에서 `pull`을 한 다음에 `pull` 작업을 완료했다는 사실을 `commit` 및 `push`하는 방법이 있고
+필요에 따라선 `merge` 명령어를 사용해서 합치는 방법도 있습니다.<br>
+
+여기선 누군가의 `Pull request`가 있을 때 웹에서 간단히 합치는 법을 정리해볼게요.
+
+마침 리퀘스트가 하나 있어서 캡처해봤습니다.
+`Pull requests`에 들어가서 `Open`되어 있는 리퀘스트를 클릭합니다.
+<img width="897" alt="스크린샷 2021-11-04 오후 4 36 40" src="https://user-images.githubusercontent.com/40985307/140275007-9a250cfa-257a-46b4-84c0-7bc7603fbcab.png">
+
+그런 다음 `Merge pull request` > `Confirm merge` 순으로 클릭하고 메인 페이지로 돌아가면,
+
+<img width="558" alt="스크린샷 2021-11-04 오후 4 37 44" src="https://user-images.githubusercontent.com/40985307/140274998-e5148b59-e412-4e61-b80e-031881c30cb5.png">
+<img width="617" alt="스크린샷 2021-11-04 오후 4 37 15" src="https://user-images.githubusercontent.com/40985307/140275005-c7fc7eaf-bc61-45da-b8ed-6fcdfaaa7102.png">
+
+이렇게 merge가 잘 반영돼 있는 것이 보입니다.
+<img width="616" alt="스크린샷 2021-11-04 오후 4 49 37" src="https://user-images.githubusercontent.com/40985307/140276369-57193dc5-7df9-4961-8284-8ad76480d968.png">
