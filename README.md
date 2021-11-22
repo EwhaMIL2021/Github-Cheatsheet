@@ -1,6 +1,11 @@
 # Github-Cheatsheet
 깃헙 팁 모음!
 
+### TIPS 바로가기
+1. [git 블로그 만들고 관리하는 법](https://github.com/EwhaMIL2021/Github-Cheatsheet/blob/main/git/blog.md)
+2. [git terminal 명령어 모음](https://github.com/EwhaMIL2021/Github-Cheatsheet/blob/main/git/commands.md)
+3. [Markdown 문법](https://github.com/EwhaMIL2021/Github-Cheatsheet/blob/main/markdown/markdown.md)
+
 ### 목차 바로가기
 
 1. [GitHub 사이트에서 Repository 관리하기](#GitHub-사이트에서-Repository-관리하기)
