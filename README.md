@@ -6,7 +6,9 @@
 2. [git terminal 명령어 모음](https://github.com/EwhaMIL2021/Github-Cheatsheet/blob/main/git/commands.md)
 3. [Markdown 문법](https://github.com/EwhaMIL2021/Github-Cheatsheet/blob/main/markdown/markdown.md)
 
-### 목차 바로가기
+---
+
+### 목차
 
 1. [GitHub 사이트에서 Repository 관리하기](#GitHub-사이트에서-Repository-관리하기)
 2. [내 컴퓨터에서 Repository 관리하기](#내-컴퓨터에서-Repository-관리하기)
@@ -224,4 +226,5 @@ $ git push origin main
 <img width="617" alt="스크린샷 2021-11-04 오후 4 37 15" src="https://user-images.githubusercontent.com/40985307/140275005-c7fc7eaf-bc61-45da-b8ed-6fcdfaaa7102.png">
 
 이렇게 merge가 잘 반영돼 있는 것이 보입니다.
+
 <img width="616" alt="스크린샷 2021-11-04 오후 4 49 37" src="https://user-images.githubusercontent.com/40985307/140276369-57193dc5-7df9-4961-8284-8ad76480d968.png">
