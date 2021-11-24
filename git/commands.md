@@ -73,19 +73,21 @@ $ git branch -d BRANCH_NAME
 
 ## 기본 명령어
 
+기본 프로세스: (pull ->) add -> commit -> push
+
 ### 로컬 repo 상태 확인
 
 ```console
 $ git status  # 상태 확인
 ```
 
-### 원격 repo 상태 가져오기
+### 원격 repo 상태 가져오기(pull)
 
 ```console
 $ git pull origin BRANCH
 ```
 
-### 파일 변경사항 추가
+### 파일 변경사항 추가(add)
 
 ```console
 # 변경된 파일명으로 추가
