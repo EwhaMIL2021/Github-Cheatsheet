@@ -78,7 +78,7 @@ $ git branch -d BRANCH_NAME
 ### 로컬 repo 상태 확인
 
 ```console
-$ git status  # 상태 확인
+$ git status  # 변경된 파일들의 목록이 빨간색 글씨로 나타나게 됨
 ```
 
 ### 원격 repo 상태 가져오기(pull)
@@ -104,11 +104,15 @@ $ git add . 또는 git add *
 $ git add --update 또는 git add -u
 ```
 
+add 작업 후 `$ git status`를 해보면 변경된 파일들의 목록이 초록색 글씨로 나타나게 됨.
+
 ### 커밋(commit)
 
 ```console
 $ git commit -m "COMMIT_MESSAGE"
 ```
+
+commit 후에 `$ git status`를 해보면 더 이상 변경된 파일들의 목록이 뜨지 않음.
 
 ### 원격 repo에 올리기(push)
 
